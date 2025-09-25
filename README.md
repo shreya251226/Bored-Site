@@ -19,5 +19,7 @@ This site gives you quick activities, games, or ideas to kill boredom.
 Clone the repo and install dependencies:
 
 git clone https://github.com/shreya251226/Bored-Site.git
+
 cd Bored-Site
+
 npm install
